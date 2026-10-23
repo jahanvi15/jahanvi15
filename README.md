@@ -23,7 +23,6 @@ agent change ──▶ checks ──▶ ci-pass ✅ ──▶ release
 ```
 
 - 🧪 Deterministic sample agents as test fixtures: no network, no LLM, fast and repeatable
-- 🔒 Protected `main`: every change goes through a PR and a single `ci-pass` gate
 - 📦 Zero runtime dependencies, platform-neutral core behind a CLI
 
 ### 🌱 Learning in public
