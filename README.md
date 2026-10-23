@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=7C5CFF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jahanvi+%F0%9F%91%8B;I+ship+AI+agents+like+software;CI%2FCD+%C2%B7+Python+%C2%B7+Learning+in+public" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=1E40AF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jahanvi+%F0%9F%91%8B;I+ship+AI+agents+like+software;CI%2FCD+%C2%B7+Python+%C2%B7+Learning+in+public" alt="Typing intro" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -34,7 +34,7 @@ Every push to my project comes with a beginner-friendly journal entry and glossa
 
 ### 📊 Stats
 
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=jahanvi15&commits_year=2026&show=prs_merged&hide=contribs&hide_rank=true&show_icons=true&hide_border=true&theme=transparent&title_color=7C5CFF&icon_color=7C5CFF&custom_title=2026%20on%20GitHub" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanvi15&layout=compact&hide_border=true&theme=transparent&title_color=7C5CFF" /> </div>
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=jahanvi15&commits_year=2026&show=prs_merged&hide=contribs&hide_rank=true&show_icons=true&hide_border=true&theme=transparent&title_color=1E40AF&icon_color=7C5CFF&custom_title=2026%20on%20GitHub" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanvi15&layout=compact&hide_border=true&theme=transparent&title_color=7C5CFF" /> </div>
 ---
 
 <div align="center">
