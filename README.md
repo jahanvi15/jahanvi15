@@ -34,9 +34,5 @@ Every push to my project comes with a beginner-friendly journal entry and glossa
 
 ### 📊 Stats
 
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=jahanvi15&commits_year=2026&show=prs_merged&hide=contribs&hide_rank=true&show_icons=true&hide_border=true&theme=transparent&title_color=1E40AF&icon_color=7C5CFF&custom_title=2026%20on%20GitHub" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanvi15&layout=compact&hide_border=true&theme=transparent&title_color=1E40AF" /> </div>
----
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=jahanvi15&commits_year=2026&show=prs_merged&hide=contribs&hide_rank=true&show_icons=true&hide_border=true&theme=transparent&title_color=1E40AF&icon_color=1E40AF&custom_title=2026%20on%20GitHub" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanvi15&layout=compact&hide_border=true&theme=transparent&title_color=1E40AF" /> </div>
 
-<div align="center">
-  <sub>Ship small, test everything, write down what you learned.</sub>
-</div>
